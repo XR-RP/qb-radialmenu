@@ -18,6 +18,9 @@ local Translations = {
         already_in_trunk = "Du är redan i bagageutrymmet",
         someone_in_trunk = "Det är redan någon i bagageutrymmet"
     },
+    progress = {
+        flipping_car = "Vänder fordon.."
+    },
     success = {
         extra_activated = "Extra %{extra} har aktiverats",
         entered_trunk = "Du är i bagageutrymmet"
@@ -27,7 +30,7 @@ local Translations = {
         wrong_ped = "Denna ped-modellen är inte tillåten med detta alternativet",
         nothing_to_remove = "Du verkar inte ha något att ta bort",
         already_wearing = "Du har redan detta på dig",
-        switched_seats = "Du är nu i %{seat}"
+        switched_seats = "Du sitter nu i %{seat}"
     },
     general = {
         command_description = "Öppna Radialmeny",
@@ -44,8 +47,8 @@ local Translations = {
     },
     options = {
         emergency_button = "Överfallslarm",
-        driver_seat = "Förarsäte",
-        passenger_seat = "Passagerarsäte",
+        driver_seat = "Förarsätet",
+        passenger_seat = "Passagerarsätet",
         other_seats = "Andra säten",
         rear_left_seat = "Vänster baksäte",
         rear_right_seat = "Höger baksäte"
